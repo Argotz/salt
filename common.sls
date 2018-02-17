@@ -7,4 +7,4 @@ install_common_packages:
       - screen
 service.running:
   -name: 
-    - vmtoolsd
+    - open-vm-tools
