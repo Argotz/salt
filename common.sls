@@ -5,5 +5,5 @@ install_common_packages:
       - curl
       - open-vm-tools
       - screen
-  service.running:
-    -name: vmtoolsd
+service.running:
+  -name: vmtoolsd
