@@ -7,4 +7,4 @@ install_common_packages:
       - screen
 vmtoolsd:
   service.running:
-    - enabled: True
+    - enable: True
